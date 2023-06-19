@@ -1,0 +1,14 @@
+.row img{
+width: 300px;
+height: 300px;
+border: 1px blue dashed;
+padding: 5px;
+margin: 5px;
+background-color: rgb(160, 200, 245);
+border-radius: 5%;
+box-sizing: border-box;
+object-fit: cover;
+}
+.row{
+    text-align: center;
+}
